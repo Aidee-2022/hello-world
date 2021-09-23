@@ -1,4 +1,4 @@
-# hello-world 2020010892
+# hello-world 
 This is my first repository on Github  
 My id is 2020010892  
 My name is WangShuai  
